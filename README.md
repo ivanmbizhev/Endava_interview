@@ -16,8 +16,8 @@ but the attempt was unsuccessful
 
 I have used the following references:
 
-blog.gruntwork.io
-learn.hashicorp.com
-github.com
-docs.aws.amazon.com
-terraform.io/docs
+#blog.gruntwork.io
+#learn.hashicorp.com
+#github.com
+#docs.aws.amazon.com
+#terraform.io/docs
