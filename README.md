@@ -16,12 +16,12 @@ but the attempt was unsuccessful.
 
 I have used the following references:
 
-#blog.gruntwork.io
+blog.gruntwork.io
 
-#learn.hashicorp.com
+learn.hashicorp.com
 
-#github.com
+github.com
 
-#docs.aws.amazon.com
+docs.aws.amazon.com
 
-#terraform.io/docs
+terraform.io/docs
