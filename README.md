@@ -8,7 +8,11 @@ I tried to deploy MySQL on top of Amazon's Relational Database Service (RDS).
 
 Unfortunately during the finishing stages the DB server was locked and I was not able to unlock it.
 
-
+AS the finishing step it would have been to add the three instances as templates under one stack using the code:
+source "aws_cloudformation_stack" "network" {
+  name = "Application-stack"
+  
+but the attempt was unsuccessful 
 
 I have used the following references:
 
