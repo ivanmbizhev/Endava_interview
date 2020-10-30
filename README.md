@@ -12,12 +12,16 @@ AS the finishing step it would have been to add the three instances as templates
 source "aws_cloudformation_stack" "network" {
   name = "Application-stack"
   
-but the attempt was unsuccessful 
+but the attempt was unsuccessful.
 
 I have used the following references:
 
 #blog.gruntwork.io
+
 #learn.hashicorp.com
+
 #github.com
+
 #docs.aws.amazon.com
+
 #terraform.io/docs
