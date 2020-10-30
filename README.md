@@ -19,3 +19,5 @@ I have used the following references:
 blog.gruntwork.io
 learn.hashicorp.com
 github.com
+docs.aws.amazon.com
+terraform.io/docs
